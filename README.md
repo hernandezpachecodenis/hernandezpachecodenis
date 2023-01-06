@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hernandezpachecodenis
-- 👀 I’m interested in ...image processing
+- 👀 I’m interested in ...image and signal processing
 - 🌱 I’m currently learning ...AI
-- 💞️ I’m looking to collaborate on ...image processing projects
+- 💞️ I’m looking to collaborate on ...image and signal processing projects
 - 📫 How to reach me ...hernandezpachecodenis@gmail.com
 
 <!---
