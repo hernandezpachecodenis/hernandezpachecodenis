@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hernandezpachecodenis
 - 👀 I’m interested in ...image and signal processing
-- 🌱 I’m currently learning ...AI
+- 🌱 I’m currently working on ...obtaining biomarkers information using ECG signal
 - 💞️ I’m looking to collaborate on ...image and signal processing projects
 - 📫 How to reach me ...hernandezpachecodenis@gmail.com
 
